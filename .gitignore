@@ -3,6 +3,8 @@ fenics_slides/*
 meshes/*
 reading/*
 figures/*
+stokes_src/figures/*
+stokes_src/stokes_examples/*
 
 # Files
 .DS_store
