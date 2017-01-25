@@ -3,3 +3,6 @@ fenics_slides/*
 meshes/*
 reading/*
 figures/*
+
+# Files
+.DS_store
